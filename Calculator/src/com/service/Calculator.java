@@ -23,4 +23,10 @@ public class Calculator {
 		int c=a+b;
 
 	}
+	public int canberra(){
+		int gabba=0;
+		int adelaide=1;
+		int tasmania=5;
+	}
+	}
 }
