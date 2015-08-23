@@ -28,12 +28,7 @@ public class Calculator {
 	}
 
 
-	public int canberra(){
-		int gabba=0;
-		int adelaide=1;
-		int tasmania=5;
-	}
-
+	
 	public void hai(){
 		int c=0;
 		int d=0;
