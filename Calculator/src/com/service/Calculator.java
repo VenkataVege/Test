@@ -23,4 +23,9 @@ public class Calculator {
 		int c=a+b;
 
 	}
+	private void syso() {
+		
+
+	}
+	
 }
