@@ -16,6 +16,7 @@ public class Calculator {
 	public int kljhkjlkb (int a, int b){
 		return a-b;
 	}
+	
 
 	
 	public void antoherMethod(){
@@ -24,4 +25,5 @@ public class Calculator {
 		int c=a+b;
 
 	}
+	int i=0;
 }
