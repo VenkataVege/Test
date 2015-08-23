@@ -16,8 +16,12 @@ public class Calculator {
 	public int kljhkjlkb (int a, int b){
 		return a-b;
 	}
-	public void pranay()
-	{
-		System.out.println("added by pranay");
+
+	
+	public void antoherMethod(){
+		int a=0;
+		int b=0;
+		int c=a+b;
+
 	}
 }
