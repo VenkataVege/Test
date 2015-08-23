@@ -27,7 +27,7 @@ public class Calculator {
 
 	}
 
-	public int canberra(){
+	public void canberra(){
 		int gabba=0;
 		int adelaide=1;
 		int tasmania=5;
@@ -41,5 +41,11 @@ public class Calculator {
 		int z=c+d+m+y;
 		
 
+	}
+	public void Africa(){
+		int congo=0;
+		int chad=5;
+		int algeria=4;
+		int mozambique =5;
 	}
 }
