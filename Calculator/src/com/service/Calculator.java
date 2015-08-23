@@ -38,4 +38,7 @@ public class Calculator {
 		
 
 	}
+	private void syso() {
+
+	}
 }
